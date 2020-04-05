@@ -1,0 +1,27 @@
+body {
+    background-color: navy;
+}
+
+.header {
+    text-align: center;
+    color: goldenrod;
+    background-color: navy;
+    height: 3em;
+    font-size: 20px;
+}
+
+.content {
+    background-color: goldenrod;
+    width: 5em;
+    height: 5em;
+    position: relative;
+    padding: 5px;
+    margin: auto;
+    border-width: 5px;
+}
+
+.footer {
+    background-color: navy;
+    color: gold;
+    font-size: 10px;
+}
